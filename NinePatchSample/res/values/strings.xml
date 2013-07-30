@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NinePatchSample</string>
+    <string name="img_dsc"></string>
+    <string name="run">Bitmap from runtime creation (Not compiled)</string>
+    <string name="res">Bitmap from resource (Compiled)</string>
+    <string name="bd">BitmapDrawable</string>
+    <string name="nd">NinePatchDrawable</string>
+    <string name="nd_pad">NinePatchDrawable(Padding)</string>
+    <string name="nd_pad_bnd">NinePatchDrawable(Padding/OpticalBounds)</string>
+    <string name="nd_rid">NinePatchDrawable(Res-ID)</string>
+    
+</resources>
